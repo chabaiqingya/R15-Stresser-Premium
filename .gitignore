@@ -229,3 +229,6 @@ __marimo__/
 
 # 个人配置文件
 config.json
+
+test_logic.py
+_trial_temp/
